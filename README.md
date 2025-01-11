@@ -1,4 +1,4 @@
-A automatic Noita save manager. I'll add a better description if people are actually interested.
+A Noita save manager. I'll add a better description if people are actually interested.
 
 It features multiple saves at the same time by copying your active save file to the applications path. You can set a custom name for your save as well. Restoring should also work fine.
 
